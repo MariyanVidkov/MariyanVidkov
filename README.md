@@ -33,27 +33,27 @@ Here's a snapshot of the tools and technologies I use.
 
 <table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br /><b>Python</b></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br /><b>C</b></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><b>JavaScript</b></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br /><b>TypeScript</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br /><b>HTML5</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br /><b>CSS3</b></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/less/1D365D/6E9BD3" width="40" height="40" alt="Less" /><br /><b>Less</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><b>JavaScript</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br /><b>TypeScript</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><b>Git</b></td>
   </tr>
   <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br /><b>Python</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" /><br /><b>C</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br /><b>React</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /><br /><b>Vue.js</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br /><b>Node.js</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" width="40" height="40" alt="Django" /><br /><b>Django</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/less/1D365D/6E9BD3" width="40" height="40" alt="Less" /><br /><b>Less</b></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539/6BA539" width="40" height="40" alt="REST APIs" /><br /><b>REST APIs</b></td>
   </tr>
   <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" width="40" height="40" alt="Django" /><br /><b>Django</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br /><b>PostgreSQL</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br /><b>MongoDB</b></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/prisma/2D3748/CBD5E0" width="40" height="40" alt="Prisma" /><br /><b>Prisma</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br /><b>Docker</b></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><b>Git</b></td>
     <td align="center" width="110"></td>
   </tr>
 </table>
@@ -71,9 +71,9 @@ Here's a snapshot of the tools and technologies I use.
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/davinciresolve/233A51/8FA9C4" width="40" height="40" alt="DaVinci Resolve" /><br /><b>DaVinci Resolve</b></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" width="40" height="40" alt="Affinity" /><br /><b>Affinity</b></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/Af-134881?style=for-the-badge&logoColor=white" alt="Affinity" /><br /><b>Affinity</b></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" /><br /><b>Canva</b></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capcut/capcut-original.svg" width="40" height="40" alt="CapCut" /><br /><b>CapCut</b></td>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/CC-000000?style=for-the-badge&logoColor=white" alt="CapCut" /><br /><b>CapCut</b></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" /><br /><b>Claude</b></td>
     <td align="center" width="110"></td>
   </tr>
