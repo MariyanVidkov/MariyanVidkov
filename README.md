@@ -29,7 +29,6 @@
 
 ## 🛠️ My Tech Stack
 
-Here's a snapshot of the tools and technologies I use.
 
 <table align="center">
   <tr>
