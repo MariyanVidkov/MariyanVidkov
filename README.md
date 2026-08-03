@@ -64,16 +64,16 @@ Here's a snapshot of the tools and technologies I use.
 
 <table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma" /><br /><b>Figma</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" height="40" alt="Photoshop" /><br /><b>Photoshop</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40" height="40" alt="Illustrator" /><br /><b>Illustrator</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" width="40" height="40" alt="Premiere Pro" /><br /><b>Premiere Pro</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /><br /><b>Figma</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" /><br /><b>Photoshop</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator" /><br /><b>Illustrator</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" height="40" alt="Premiere Pro" /><br /><b>Premiere Pro</b></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/davinciresolve/233A51/8FA9C4" width="40" height="40" alt="DaVinci Resolve" /><br /><b>DaVinci Resolve</b></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/affinity/134881/6FA8DC" width="40" height="40" alt="Affinity" /><br /><b>Affinity</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" /><br /><b>Canva</b></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/capcut/000000/FFFFFF" width="40" height="40" alt="CapCut" /><br /><b>CapCut</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" width="40" height="40" alt="Affinity" /><br /><b>Affinity</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" /><br /><b>Canva</b></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capcut/capcut-original.svg" width="40" height="40" alt="CapCut" /><br /><b>CapCut</b></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" /><br /><b>Claude</b></td>
     <td align="center" width="110"></td>
   </tr>
