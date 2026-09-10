@@ -22,7 +22,7 @@
 | **2022** | 17 | Delivered both. Hack TUES: 224 participants, 50 teams, 20 awarded projects. TUES Fest: 153 participants, 83 projects, thousands of visitors. 20+ sponsors. |
 | **2022 – 2023** | 17 – 18 | Built a 6-person team around Eventycal, a platform automating the full lifecycle of event creation. We never shipped it. We were invited to co-found a company with an established entrepreneur instead. Three of us continued. |
 | **2023 – 2026** | 18 – 21 | Worked as a software engineer and became a full-stack developer. Shipped production systems. Left in February 2026. |
-| **2022 – now** | 17 – 21 | Built and scaled a faceless content brand in my free time. 750+ pieces of content. 54,000+ TikTok followers, 45,000+ across two Facebook pages, 1,000+ subscribers on YouTube. 70+ million total views. |
+| **2022 – now** | 17 – 21 | Built and scaled a faceless content brand in my free time. 1100+ pieces of content. 58,000+ TikTok followers, 55,000+ across two Facebook pages, 1,200+ subscribers on YouTube. 70+ million total views. |
 | **2026 – now** | 21 | Something soon. |
 
 ---
